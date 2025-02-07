@@ -1,0 +1,20 @@
+body {
+    background-color: #FFE5D9;
+    color: #9D8189;
+    font-family: Athos,OLYMPUS,sans-serif;
+    margin: 20px;
+    padding: 10px 5px 10px 5px
+}
+h1 {
+    font-family: Monteci;
+    background-color: #ffcad4;
+    color: #540b0e;
+
+}
+h2 {
+    font-family: Monteci;
+    color: #f08080;
+}
+sup {
+    color: #F4ACB7; 
+}
